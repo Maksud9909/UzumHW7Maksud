@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Test1 {
     public static void main(String[] args) {
+
         System.out.println("Введите абсолютный путь папки: ");
         Scanner in = new Scanner(System.in);
 
