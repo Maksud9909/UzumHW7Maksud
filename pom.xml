@@ -54,6 +54,7 @@
                     <generateBackupPoms>false</generateBackupPoms>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 </project>
